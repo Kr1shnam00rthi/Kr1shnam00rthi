@@ -3,7 +3,7 @@
 ## About me
 
 - 🎓 I am currently pursuing my Bachelor's in Computer Science and Engineering (Cybersecurity).
-- 🛠️ I am Passionate about Building, Securing, and Shaping Technology.
+- 🛠️ I am passionate about building, securing, and contributing to technology.
   
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sree-sharvesh-s-s/) 
