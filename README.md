@@ -7,6 +7,7 @@
   
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sree-sharvesh-s-s/) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Kr1shnam00rthi/)
 
 ## My Stack
 
